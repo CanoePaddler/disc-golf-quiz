@@ -69,3 +69,8 @@ body {
 .answer-btn {
     margin: 5px;
 }
+
+/* #questions,
+#answers {
+    display: none;
+} */
