@@ -9,6 +9,8 @@ For this project we created a disc golf quiz for anyone interested in learing ab
 
 Hit the start button and you will be guided through the quiz
 
+![](assets/images/quiz.PNG)
+
 ## License
 
 MIT License
