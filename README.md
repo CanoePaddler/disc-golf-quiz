@@ -1,20 +1,11 @@
 # Disc Golf Quiz
 
 ## Description
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out?
-
-Lastly, if your project is deployed, include a link to the deployed application here.
+For this project we created a disc golf quiz for anyone interested in learing about disc golf! The sport of disc golf is growing and we want to pass on our knowledge of this great outdoor sport. While creating this project we learned about variables, arrays, and functions. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+Hit the start button and you will be guided through the quiz
 
 ## License
 
